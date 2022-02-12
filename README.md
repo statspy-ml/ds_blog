@@ -16,7 +16,7 @@ Udacity Data Science Nanodegreee Project 1
 
 You need to download the datasets for the years 2019, 2020 and 2021. Just follow the links below:
 
-[Stackoverflow Survey Results]((https://insights.stackoverflow.com/survey)
+[Stackoverflow Survey Results](https://insights.stackoverflow.com/survey)
 
 ## Project Motivation <a name="motivation"></a>
 
@@ -33,7 +33,7 @@ The goal of this project is to use the data provided by Stackoverflow Developer 
 
 ## Licensing, Authors and Acknowledgements <a name="licensing"></a>
 
-Credits to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here]((https://insights.stackoverflow.com/survey))
+Credits to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey)
 
 
 
