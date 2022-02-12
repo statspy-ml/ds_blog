@@ -39,7 +39,7 @@ The goal of this project is to use the data provided by Stackoverflow Developer 
 
 ## Results <a name="results"></a>
 
-The finding of this work can be found in this [post](https://rodrigo-dev77.medium.com/what-are-most-used-programming-languages-and-databases-in-brazil-d8f8ecd17ea4)
+The findings of this work can be found in this [post](https://rodrigo-dev77.medium.com/what-are-most-used-programming-languages-and-databases-in-brazil-d8f8ecd17ea4)
 
 ## Licensing, Authors and Acknowledgements <a name="licensing"></a>
 
