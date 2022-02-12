@@ -5,24 +5,22 @@ Udacity Data Science Nanodegreee Project 1
 
 ### Table of Contents
 
+
 1. [Datasets](#datasets)
 2. [Project Motivation](#motivation)
 3. [Results](#results)
 4. [Licensing, Authors and Acknowledgements](#licensing)
 
 
-## Datasets <a name="installation"></a>
+## Datasets <a name="datasets"></a>
+
+You need to download the datasets for the years 2019, 2020 and 2021. Just follow the links below:
+
+[Stackoverflow Survey Results]((https://insights.stackoverflow.com/survey)
 
 ## Project Motivation <a name="motivation"></a>
 
-## Results <a name="results"></a>
-
-## Licensing, Authors and Acknowledgements <a name="licensing"></a>
-
-
-# Project Motivation
-
-The goal of this project is to use the data provided by Stackoverfloe Developer Survey to answer these Questions:</br>
+The goal of this project is to use the data provided by Stackoverflow Developer Survey to answer these questions:</br>
 
 1. What are the most used programming languages in Brazil in the last 3 years?</br>
 2. What ate the most wanted programming languages in Brazil in the last 3 years?</br>
@@ -31,6 +29,18 @@ The goal of this project is to use the data provided by Stackoverfloe Developer 
 5. What was the impact of Covid Pandemic regarding mental health of the respondents in Brazil?</br>
 
 
+## Results <a name="results"></a>
 
-[Link to StackOverflow datasets](https://insights.stackoverflow.com/survey?_ga=2.140698998.512571178.1644025148-469833697.1644025148)
+## Licensing, Authors and Acknowledgements <a name="licensing"></a>
+
+Credits to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here]((https://insights.stackoverflow.com/survey))
+
+
+
+
+
+
+
+
+
 
