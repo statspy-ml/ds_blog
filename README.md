@@ -46,9 +46,9 @@ The findings of this work can be found in this [post](https://rodrigo-dev77.medi
 Credits to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey)
 
 I also used as inspiration examples from these projects/articles:
-[medium post](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711)
-[here](https://medium.com/kiran-santwani/write-a-data-science-blog-post-82bfe33b85d0)
-[here](https://github.com/ericvenarusso/Write-a-Data-Science-Blog-Post/blob/master/README.md)
+[medium post](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711)</br>
+[here](https://medium.com/kiran-santwani/write-a-data-science-blog-post-82bfe33b85d0)</br>
+[here](https://github.com/ericvenarusso/Write-a-Data-Science-Blog-Post/blob/master/README.md)</br>
 
 
 
