@@ -35,12 +35,11 @@ The goal of this project is to use the data provided by Stackoverflow Developer 
 2. What ate the most wanted programming languages in Brazil in the last 3 years?</br>
 3. What are the most common database flavor in Brazil in the last 3 years?</br>
 4. What are the most wanted database flavor in Brazil in the last 3 years?</br>
-5. What was the impact of Covid Pandemic regarding mental health of the respondents in Brazil?</br>
 
 
 ## Results <a name="results"></a>
 
-The finding of this work can be found in this [post]
+The finding of this work can be found in this [post](https://rodrigo-dev77.medium.com/what-are-most-used-programming-languages-and-databases-in-brazil-d8f8ecd17ea4)
 
 ## Licensing, Authors and Acknowledgements <a name="licensing"></a>
 
