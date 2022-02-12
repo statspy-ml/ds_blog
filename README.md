@@ -7,6 +7,7 @@ Udacity Data Science Nanodegreee Project 1
 
 
 1. [Datasets](#datasets)
+2. [Installation[(#installation)
 2. [Project Motivation](#motivation)
 3. [Results](#results)
 4. [Licensing, Authors and Acknowledgements](#licensing)
@@ -17,6 +18,14 @@ Udacity Data Science Nanodegreee Project 1
 You need to download the datasets for the years 2019, 2020 and 2021. Just follow the links below:
 
 [Stackoverflow Survey Results](https://insights.stackoverflow.com/survey)
+
+## Installation<a name="installation"></a>
+
+This code runs with Python 3.x and some libraries are required.  To install the libraries you need to execute:
+
+` pip install -r requirements.txt `
+
+Then you need to add the 3 datasets and the ipynb file in the same directory.
 
 ## Project Motivation <a name="motivation"></a>
 
@@ -30,6 +39,8 @@ The goal of this project is to use the data provided by Stackoverflow Developer 
 
 
 ## Results <a name="results"></a>
+
+The finding of this work can be found in this [post]
 
 ## Licensing, Authors and Acknowledgements <a name="licensing"></a>
 
